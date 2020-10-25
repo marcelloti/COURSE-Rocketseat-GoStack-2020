@@ -1,2 +1,69 @@
+# BACKEND
 conceitos-dev/backend/node_modules
+
+# FRONTEND
 conceitos-dev/frontend/node_modules
+
+
+
+## MOBILE
+
+# OSX
+#
+conceitos-dev/mobile/.DS_Store
+
+# Xcode
+#
+conceitos-dev/mobile/build/
+conceitos-dev/mobile/*.pbxuser
+conceitos-dev/mobile/!default.pbxuser
+conceitos-dev/mobile/*.mode1v3
+conceitos-dev/mobile/!default.mode1v3
+conceitos-dev/mobile/*.mode2v3
+conceitos-dev/mobile/!default.mode2v3
+conceitos-dev/mobile/*.perspectivev3
+conceitos-dev/mobile/!default.perspectivev3
+conceitos-dev/mobile/xcuserdata
+conceitos-dev/mobile/*.xccheckout
+conceitos-dev/mobile/*.moved-aside
+conceitos-dev/mobile/DerivedData
+conceitos-dev/mobile/*.hmap
+conceitos-dev/mobile/*.ipa
+conceitos-dev/mobile/*.xcuserstate
+
+# Android/IntelliJ
+#
+conceitos-dev/mobile/build/
+conceitos-dev/mobile/.idea
+conceitos-dev/mobile/.gradle
+conceitos-dev/mobile/local.properties
+conceitos-dev/mobile/*.iml
+
+# node.js
+#
+conceitos-dev/mobile/node_modules/
+conceitos-dev/mobile/npm-debug.log
+conceitos-dev/mobile/yarn-error.log
+
+# BUCK
+conceitos-dev/mobile/buck-out/
+conceitos-dev/mobile/\.buckd/
+conceitos-dev/mobile/*.keystore
+conceitos-dev/mobile/!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+conceitos-dev/mobile/*/fastlane/report.xml
+conceitos-dev/mobile/*/fastlane/Preview.html
+conceitos-dev/mobile/*/fastlane/screenshots
+
+# Bundle artifact
+conceitos-dev/mobile/*.jsbundle
+
+# CocoaPods
+conceitos-dev/mobile/ios/Pods/
