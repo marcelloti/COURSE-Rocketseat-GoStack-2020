@@ -4,7 +4,9 @@ conceitos-dev/backend/node_modules
 # FRONTEND
 conceitos-dev/frontend/node_modules
 
-
+# TYPESCRIPT
+conceitos-dev/typescript/dist
+conceitos-dev/typescript/node_modules
 
 ## MOBILE
 
